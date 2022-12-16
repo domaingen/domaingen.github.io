@@ -40,7 +40,7 @@ title: Invited Speakers
 [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/), Assistant Professor, Department of Computer Science and Engineering, The Chinese University of Hong Kong
 
 
-<img src="images/boqinggong.png" alt="amy" width="100"/>  
+<img src="images/boqinggong.jpeg" alt="amy" width="100"/>  
 
 [Boqing Gong](http://boqinggong.info), Research Scientist, Google
 
