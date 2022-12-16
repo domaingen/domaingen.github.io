@@ -1,6 +1,6 @@
 # Workshop Schedule for May 5, 2023
 
-**All times are in UCT**
+**All times are in UTC**
 
 ### Workshop overview
 
