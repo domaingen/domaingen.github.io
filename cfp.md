@@ -1,4 +1,4 @@
-
+# Call for Papers
 
 <h2 style="text-align: center;"> What do we need for successful domain generalization?</h2> 
 
