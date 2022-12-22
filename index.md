@@ -33,6 +33,6 @@ Breakout rooms: after each session, there will be a [GatherTown breakout room](h
 ## Important dates
 
 **DG Workshop at ICLR2023**    
-Submission deadline: February 3, 2023 at 12:00 AM UTC (anywhere on earth) via [CMT](https://cmt3.research.microsoft.com/AI4Earth2022/)   
+Submission deadline: February 3, 2023 at 12:00 AM UTC (anywhere on earth) via [OpenReview](https://openreview.net/forum?id=1cCUi42jtzB)   
 Author notifications: March 3, 2023
 Meeting: May 5, 2023   
