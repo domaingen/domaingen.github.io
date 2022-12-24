@@ -44,4 +44,4 @@ The real challenge for any machine learning system is to be reliable and robust 
 - Timothy Hospedales, Professor, School of Informatics at the University of Edinburgh
 - Cuiling Lan, Senior Researcher, Microsoft
 - Da Li, Senior Research Scientist, Samsung AI
--Kaiyang Zhou, Research Fellow, NTU Singapore
+- Kaiyang Zhou, Research Fellow, NTU Singapore
