@@ -6,7 +6,7 @@
 
 <img src="images/henry.png" alt="henry" width="100"/>  
 
-[Henry Gouk](https://www.henrygouk.com), Machine Learning Researcher, School of Informatics at the University of Edinburgh
+[Henry Gouk](https://www.henrygouk.com), RAEng Research Fellow, School of Informatics at the University of Edinburgh
 
 
 <img src="images/Hospedales_T.jpg" alt="Hospedales" width="100"/>  
