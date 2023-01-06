@@ -33,6 +33,6 @@ Breakout rooms: after each session, there will be a [GatherTown breakout room](h
 ## Important dates
 
 **DG Workshop at ICLR2023**    
-Submission deadline: February 3, 2023 at 12:00 AM UTC (anywhere on earth) via [OpenReview](https://openreview.net/forum?id=1cCUi42jtzB)   
+Submission deadline: February 3, 2023 at 12:00 AM UTC (anywhere on earth) via [OpenReview](https://openreview.net/group?id=ICLR.cc/2023/Workshop/DG)   
 Author notifications: March 3, 2023
 Meeting: May 5, 2023   
