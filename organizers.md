@@ -2,7 +2,7 @@
 
 <img src="images/aniket.jpg" alt="aniket" width="100"/>  
 
-[Aniket Deshmukh](https://aniketde.github.io), Applied Scientist, Microsoft
+[Aniket Deshmukh](https://aniketde.github.io), Applied Scientist, Amazon
 
 <img src="images/henry.png" alt="henry" width="100"/>  
 
