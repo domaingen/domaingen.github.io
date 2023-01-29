@@ -25,6 +25,10 @@ The real challenge for any machine learning system is to be reliable and robust 
 - Submissions should be fully anonymized for double-blind review
 - Dual submission policy: This workshop welcomes ongoing and unpublished work but will also accept papers that are under review or have recently been accepted at other venues.
 
+### FAQ
+- Can previously published paper be submitted to the workshop?: According to ICLR guidelines, workshops are not a venue for work that has been previously published in other conferences on machine learning. Work that is presented at the main ICLR conference should not appear in a workshop, including as part of an invited talk. 
+- How to access the workshop on the day of the event: More guidenlines will be added closer to the date of the workshop 
+
 ### Invited speakers:
 - David Lopez-Paz, Research Scientist at Meta AI Research
 - Amos Storkey, Professor in the School of Informatics, University of Edinburgh
