@@ -1,4 +1,4 @@
-# Workshop Schedule for May 5, 2023
+# Workshop Schedule for May 4, 2023
 
 **All times are in UTC**
 
@@ -6,8 +6,8 @@
 
 | Start time  | End time | Event |
 | ------------- | ------------- | ------------- |
-| 8:00 am  | 8:05 am  | Introductory Remarks |
-| 8:05 am  | 8:45 am  | [Invited speaker](#speaker1) |
+| 8:00 am  | 8:10 am  | Introductory Remarks |
+| 8:10 am  | 8:45 am  | [Invited speaker](#speaker1) |
 | 8:45 am  | 10:00 am  | [TBD](#speaker2) |
 | 10:00 am  | 11:00 am  | [Poster Session](#poster-session) |
 | 11:00 am  | 12:30 pm  | [TBD](#bestpaper1) |
