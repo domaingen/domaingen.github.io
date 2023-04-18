@@ -6,11 +6,11 @@ title: Invited Speakers
 
 ## Invited Speakers
 
-<img src="images/David.jpeg" alt="jeff" width="100"/>  
+<!--- <img src="images/David.jpeg" alt="jeff" width="100"/>  
 
 [David Lopez-Paz](http://lopezpaz.org/), Research Scientist at Meta AI Research
 
-
+-->
 
 <img src="images/amos.jpg" alt="joe" width="100"/>  
 
