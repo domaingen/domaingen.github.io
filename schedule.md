@@ -19,5 +19,5 @@
 | 2:10 pm  | 3:00 pm  | Invited talk from Tatiana Tommasi |
 | 3:00 pm  | 3:20 pm  | Oral: Equivariant MuZero |
 | 3:20 pm  | 4:10 pm  | Invited talk |
-| 4:10 pm  | 5 pm  | Closing Remarks |
+| 4:10 pm  | 5 pm  | Short talks from accepted papers |
 
