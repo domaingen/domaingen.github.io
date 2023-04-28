@@ -26,6 +26,7 @@ title: Invited Speakers
 
 ### [Assoc. Prof. Tatiana Tommasi](http://www.tatianatommasi.com), Department of Control and Computer Engineering, Politecnico di Torino; Italian Institute of Technology.
 
+**Bio:** Tatiana is Associate Professor at the Department of Control and Computer Engineering of Politecnico di Torino and Affiliated Researcher at the Italian Institute of Technology. Tatiana's research area include computer vision and machine learning. The main topic of her work is knowledge transfer, domain adaptation and object categorization using multimodal information. She is also interested in natural language processing, medical image analysis and robotics.
 
 <img src="images/lequan_new_crop.jpeg" alt="Lequan" width="100"/>  
 
@@ -39,18 +40,21 @@ title: Invited Speakers
 
 **Bio:** Lequan Yu is an assistant professor at The University of Hong Kong. His research lies at the intersection of artificial intelligence and healthcare. I am dedicated to designing advanced machine learning algorithms for biomedical data analysis, with a primary focus on medical images, to enable reliable clinical decision making. Specifically, he focuses on: 1) developing multi-modal learning algorithms to intergrate multi-scale heterogeneous biomedical data for disease prevention, diagnosis, and prognosis; 2) building real-world learning systems to learn reliable, generalizable, and fair representations from imperfect medical data; and 3) developing causality-based learning algorithms to improve its interpretability for healthcare problems.Before joining HKU, he was a postdoctoral research fellow at Stanford University, working with Prof. Lei Xing. Lequan obtained my Ph.D. degree in CSE, The Chinese University of Hong Kong in July 2019 and the B.Eng degree in CS, Zhejiang University in 2015. 
 
+
+## Panel
+
 <img src="images/zlipton.jpeg" alt="jeff" width="100"/>  
 
-### [Asst. Prof. Zachary Lipton](https://www.zacharylipton.com), Carnegie Mellon University 
+** [Asst. Prof. Zachary Lipton](https://www.zacharylipton.com), Carnegie Mellon University **
 
 
 
 <img src="images/QD.png" alt="joe" width="100"/>  
 
-### [Asst. Prof. Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/), Department of Computer Science and Engineering, The Chinese University of Hong Kong
+** [Asst. Prof. Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/), Department of Computer Science and Engineering, The Chinese University of Hong Kong**
 
 
 <img src="images/boqinggong.jpeg" alt="amy" width="100"/>  
 
-### [Dr. Boqing Gong](http://boqinggong.info), Google
+** [Dr. Boqing Gong](http://boqinggong.info), Google **
 
