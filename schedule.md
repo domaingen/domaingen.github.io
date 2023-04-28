@@ -7,7 +7,7 @@
 | Start time  | End time | Event |
 | ------------- | ------------- | ------------- |
 | 8:00 am  | 8:10 am  | Introductory Remarks |
-| 8:10 am  | 9:00 am  | **Lequan Yu (Invited Talk)** |
+| 8:10 am  | 9:00 am  | **Lequan Yu (Invited Talk): Towards Clinically Applicable Medical AI Systems in Open Clinical Environments** |
 | 9:00 am  | 9:20 am  | Oral: [Pareto Invariant Risk Minimization: Towards Mitigating The Optimization Dilemma in Out-of-Distribution Generalization](https://openreview.net/forum?id=Dzrq0YuhmH) |
 | 9:20 am  | 9:40 am  | Oral: [Avoiding Catastrophic Referral Failures In Medical Images Under Domain Shift](https://openreview.net/forum?id=y64BYx2hM1) |
 | 9:40 am  | 10:00 am | Break
