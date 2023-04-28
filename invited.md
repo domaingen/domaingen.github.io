@@ -29,10 +29,15 @@ title: Invited Speakers
 
 <img src="images/lequan_new_crop.jpeg" alt="Lequan" width="100"/>  
 
-### [Asst. Prof. Lequan Yu](https://yulequan.github.io), The University of Hong Kong. 
+
+### Towards Clinically Applicable Medical AI Systems in Open Clinical Environments.
+
+**[Asst. Prof. Lequan Yu](https://yulequan.github.io), The University of Hong Kong.**
 
 
-## Panel
+**Abstract:** As artificial intelligence (AI) continues to revolutionize healthcare and medical image analysis, ensuring safe and effective AI deployment in open clinical environments has become paramount. However, many existing medical AI methods prioritize model performance, focusing on achieving higher accuracy rather than clinical applicability. In this talk, I will present our works on building clinically applicable deep learning systems for medical image analysis, emphasizing domain generalization, continual learning, and multi-modality learning. Our aim is to inspire the development of more reliable and effective medical AI systems, ultimately enhancing patient care and outcomes. Additionally, I will discuss up-to-date progress and promising future directions in this critical domain.
+
+**Bio:** Lequan Yu is an assistant professor at The University of Hong Kong. His research lies at the intersection of artificial intelligence and healthcare. I am dedicated to designing advanced machine learning algorithms for biomedical data analysis, with a primary focus on medical images, to enable reliable clinical decision making. Specifically, he focuses on: 1) developing multi-modal learning algorithms to intergrate multi-scale heterogeneous biomedical data for disease prevention, diagnosis, and prognosis; 2) building real-world learning systems to learn reliable, generalizable, and fair representations from imperfect medical data; and 3) developing causality-based learning algorithms to improve its interpretability for healthcare problems.Before joining HKU, he was a postdoctoral research fellow at Stanford University, working with Prof. Lei Xing. Lequan obtained my Ph.D. degree in CSE, The Chinese University of Hong Kong in July 2019 and the B.Eng degree in CS, Zhejiang University in 2015. 
 
 <img src="images/zlipton.jpeg" alt="jeff" width="100"/>  
 
