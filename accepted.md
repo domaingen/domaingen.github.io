@@ -5,6 +5,8 @@ description: org
 ---  
 
 ## Oral Presentations
+|ID|Title|Authors|
+|--|-----|-------|
 |18|[Model Pareto Invariant Risk Minimization: Towards Mitigating The Optimization Dilemma in Out-of-Distribution Generalization](https://openreview.net/pdf?id=Dzrq0YuhmH)|Yongqiang Chen, Kaiwen Zhou, Yatao Bian, Binghui Xie, Bingzhe Wu, Yonggang Zhang, MA KAILI, Han Yang, Peilin Zhao, Bo Han, James Cheng|
 |24|[Equivariant MuZero](https://openreview.net/pdf?id=niPumCRyhr)|Andreea Deac, Theophane Weber, George Papamakarios |
 |29|[Low-Entropy Latent Variables Hurt Out-of-Distribution Performance](https://openreview.net/pdf?id=kjKNMRq55M)|Dylan Cope, Nandi Schoots|
