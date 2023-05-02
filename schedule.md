@@ -17,7 +17,7 @@
 | 12:10 pm  | 1:00 pm  | Lunch Break |
 | 1:00 pm  | 2:00 pm  | **Panel Discussion: Zachary Lipton, Qi Dou, Boqing Gong** |
 | 2:00 pm  | 2:10 pm  | Break |
-| 2:10 pm  | 3:00 pm  | **Tatiana Tommasi (Invited Talk)** |
+| 2:10 pm  | 3:00 pm  | **Tatiana Tommasi (Invited Talk): Open World: Generalize and Recognize Novelty** |
 | 3:00 pm  | 3:20 pm  | Oral: [Equivariant MuZero](https://openreview.net/forum?id=niPumCRyhr) |
 | 3:20 pm  | 3:40 pm  | Break |
 | 3:40 pm  | 4:40 pm  | [Afternoon Spotlight Presentations](https://domaingen.github.io/sessions) |
