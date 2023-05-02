@@ -22,11 +22,13 @@ title: Invited Speakers
 
 **Bio:** Amos Storkey is Professor of Machine Learning and AI at the School of Informatics, University of Edinburgh. He leads the Bayesian and Neural Systems Research Group and is Director of the EPSRC Centre for Doctoral Training in Data Science. On the methodological side, he is known for his contributions to meta-learning and few shot learning, efficient neural network design, reinforcement learning, dataset shift, and transactional mechanisms for machine learning. His general focus is machine learning for images and video; as part of that he has a long history of developments in medical imaging and efficient methods for robust and adaptive image understanding.
 
-<img src="images/Tatiana.png" alt="Tatiana" width="100"/>  
+<img src="images/TTommasi_crop.jpg" alt="Tatiana" width="100"/>  
 
-### [Assoc. Prof. Tatiana Tommasi](http://www.tatianatommasi.com), Department of Control and Computer Engineering, Politecnico di Torino; Italian Institute of Technology.
+### Open World: Generalize and Recognize Novelty
 
-**Bio:** Tatiana is Associate Professor at the Department of Control and Computer Engineering of Politecnico di Torino and Affiliated Researcher at the Italian Institute of Technology. Tatiana's research area include computer vision and machine learning. The main topic of her work is knowledge transfer, domain adaptation and object categorization using multimodal information. She is also interested in natural language processing, medical image analysis and robotics.
+**[Assoc. Prof. Tatiana Tommasi](http://www.tatianatommasi.com), Department of Control and Computer Engineering, Politecnico di Torino; Italian Institute of Technology.**
+
+**Bio:** Tatiana Tommasi is Associate Professor in the department of Control and Computer Engineering of Politecnico di Torino (IT), Affiliated Researcher at the Italian Institute of Technology, ELLIS scholar and director of the ELLIS Unit in Turin. She received the PhD at EPFL Lausanne (CH) in 2013 and spent post-doctoral periods in Belgium and USA before covering the role of assistant professor at Sapienza University (Rome, IT). Tatiana has published more than 50 papers at top conferences and journals in machine learning and computer vision. She has a strong record in theoretically grounded algorithms for automatic learning from images with robotics, medical and human-machine interaction applications. She pioneered the area of transfer learning in computer vision and has extensive experience in domain adaptation, generalization, multimodal and open-set learning.
 
 <img src="images/lequan_new_crop.jpeg" alt="Lequan" width="100"/>  
 
@@ -45,16 +47,16 @@ title: Invited Speakers
 
 <img src="images/zlipton.jpeg" alt="jeff" width="100"/>  
 
-** [Asst. Prof. Zachary Lipton](https://www.zacharylipton.com), Carnegie Mellon University **
+**[Asst. Prof. Zachary Lipton](https://www.zacharylipton.com), Carnegie Mellon University**
 
 
 
 <img src="images/QD.png" alt="joe" width="100"/>  
 
-** [Asst. Prof. Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/), Department of Computer Science and Engineering, The Chinese University of Hong Kong**
+**[Asst. Prof. Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/), Department of Computer Science and Engineering, The Chinese University of Hong Kong**
 
 
 <img src="images/boqinggong.jpeg" alt="amy" width="100"/>  
 
-** [Dr. Boqing Gong](http://boqinggong.info), Google **
+**[Dr. Boqing Gong](http://boqinggong.info), Google**
 
