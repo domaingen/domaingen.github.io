@@ -15,7 +15,7 @@
 | 11:00 am  | 11:50 am  | **Amos Storkey (Invited Talk): My Models Works Well… Famous Last Words.** |
 | 11:50 am  | 12:10 pm    | Oral: [Low-Entropy Latent Variables Hurt Out-of-Distribution Performance](https://openreview.net/forum?id=kjKNMRq55M) |
 | 12:10 pm  | 1:00 pm  | Lunch Break |
-| 1:00 pm  | 2:00 pm  | **Panel Discussion: Zachary Lipton, Qi Dou, Boqing Gong** |
+| 1:00 pm  | 2:00 pm  | **Panel Discussion: Zachary Lipton, Qi Dou, Boqing Gong, Amos Storkey** |
 | 2:00 pm  | 2:10 pm  | Break |
 | 2:10 pm  | 3:00 pm  | **Tatiana Tommasi (Invited Talk): Open World: Generalize and Recognize Novelty** |
 | 3:00 pm  | 3:20 pm  | Oral: [Equivariant MuZero](https://openreview.net/forum?id=niPumCRyhr) |
