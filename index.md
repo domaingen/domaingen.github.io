@@ -16,7 +16,13 @@ The real challenge for any machine learning system is to be reliable and robust 
 * Theoretical investigations into the domain generalization problem and potential solutions
 
 ## Information for the day of the workshop
-TBD
+The workshop will be streamed via the [ICLR workshop page](https://iclr.cc/virtual/2023/workshop/12824).
+
+Instructions for presenters:
+* Please ensure your presentation will fit in the allowed time—we will be strict about enforcing time limits.
+* All questions will be asked via the rocket chat. For invited and long oral speakers, the session chair will read these out and you will answer over Zoom. In the interests of time, those presenting in the spotlight session will answer questions in the rocket chat while we are changing speakers.
+* Please ensure that you have updated Zoom to the most recent version, and tested that it works.
+* Join the Zoom call at least 20 minutes prior to the session you will be presenting in. Check the schedule [here](https://domaingen.github.io/schedule).
 
 <!-- **General:** -->
 
