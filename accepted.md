@@ -30,7 +30,7 @@ description: org
 |21|[Signal Is Harder To Learn Than Bias: Debiasing with Focal Loss](https://openreview.net/pdf?id=PEPSFxkjqg)|Moritz Vandenhirtz, Laura Manduchi, Ričards Marcinkevičs, Julia E Vogt|
 |22|[Back Translation Variational Autoencoders for OOD generation](https://openreview.net/pdf?id=tY7OtbCi9Z)|Frantzeska Lavda, Alexandros Kalousis|
 |28|[Imbalanced Domain Generalization for Robust Single Cell Classification in Hematological Cytomorphology](https://openreview.net/pdf?id=JWDOioscQE)|Rao Muhammad Umer, Armin Gruber, Ali Boushehri, Christian Matek, Carsten Marr|
-|30|[Masked Audio Text Encoders are Effective Few-shot Rescorers](https://openreview.net/pdf?id=quoUZyjKGp)|Jinglun Cai, Monica Sunkara, Xilai Li, Anshu Bhatia, Xiao Pan, Sravan Bodapati|
+|30|Masked Audio Text Encoders are Effective Few-shot Rescorers|Jinglun Cai, Monica Sunkara, Xilai Li, Anshu Bhatia, Xiao Pan, Sravan Bodapati|
 |31|[On Pitfalls of Test-Time Adaptation](https://openreview.net/pdf?id=QcSlRwe3Fe)|Hao Zhao, Yuejiang Liu, Alexandre Alahi, Tao Lin|
 |34|[A Simple Test-time Adaptation Method for Source-free Domain Generalization](https://openreview.net/pdf?id=Ran2xUWG2n)|Vaasudev Narayanan, Sai Srinivas Kancheti, Sriranjani Ramakrishnan, Vineeth N. Balasubramanian|
 |35|[Necessary and Sufficient Hypothesis of Curvature: Understanding Connection Between Out-of-Distribution Generalization and Calibration](https://openreview.net/pdf?id=jxj6YJE8lS)|Hiroki Naganuma, Masanari Kimura|
