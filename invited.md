@@ -60,3 +60,8 @@ title: Invited Speakers
 
 **[Dr. Boqing Gong](http://boqinggong.info), Google**
 
+
+<img src="images/amos.jpg" alt="Amos" width="100"/>  
+
+**[Prof. Amos Storkey](https://homepages.inf.ed.ac.uk/amos/), School of Informatics, University of Edinburgh**
+
