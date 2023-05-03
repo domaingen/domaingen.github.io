@@ -32,7 +32,7 @@ description: org
 |14|[Implicit Stylization for Domain Adaptation](https://openreview.net/pdf?id=fkFFh4fAbH)|Jinman Park, Francois Barnard, Saad Hossain, Sirisha Rambhatla|
 |17|[Fully Neural-Based Out-of-Distribution Detection for Temporal Point Processes](https://openreview.net/pdf?id=7opQsdC2Ob)|Rafael Lima, Chris Solomou|
 |22|[Back Translation Variational Autoencoders for OOD generation](https://openreview.net/pdf?id=tY7OtbCi9Z)|Frantzeska Lavda, Alexandros Kalousis|
-|30|[Masked Audio Text Encoders are Effective Few-shot Rescorers](https://openreview.net/pdf?id=quoUZyjKGp)|Jinglun Cai, Monica Sunkara, Xilai Li, Anshu Bhatia, Xiao Pan, Sravan Bodapati|
+|30|Masked Audio Text Encoders are Effective Few-shot Rescorers|Jinglun Cai, Monica Sunkara, Xilai Li, Anshu Bhatia, Xiao Pan, Sravan Bodapati|
 |31|[On Pitfalls of Test-Time Adaptation](https://openreview.net/pdf?id=QcSlRwe3Fe)|Hao Zhao, Yuejiang Liu, Alexandre Alahi, Tao Lin|
 
 --- 
